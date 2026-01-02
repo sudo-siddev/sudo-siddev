@@ -28,7 +28,7 @@ I enjoy building scalable systems.
 
 ## 💼 Experience Highlights
 
-- 🔹 Built ERP Cloud integrations using Spring Boot, OIC, REST APIs
+- 🔹 Built scalable backend systems using Spring Boot.
 - 🔹 Developed cloud-native microservices & CI/CD pipelines
 - 🔹 Built AI-powered dashboards & proctoring systems
 
