@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Siddharth Patel 👋
 
-<!--
-**sudo-siddev/sudo-siddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer with experience in **Java, Spring Boot, React, AWS, and Cloud-native systems**.  
+I enjoy building scalable systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Languages**
+- Java, C++, JavaScript, TypeScript, SQL
+
+**Backend**
+- Spring Boot, Node.js, REST APIs, GraphQL
+
+**Frontend**
+- React.js, Tailwind CSS, HTML, CSS
+
+**Cloud & DevOps**
+- AWS (EC2, RDS, S3, Lambda)
+- Docker, Kubernetes (EKS), Terraform
+- GitHub Actions
+
+**Databases**
+- PostgreSQL, MySQL, MongoDB
+
+---
+
+## 💼 Experience Highlights
+
+- 🔹 Built ERP Cloud integrations using Spring Boot, OIC, REST APIs
+- 🔹 Developed cloud-native microservices & CI/CD pipelines
+- 🔹 Built AI-powered dashboards & proctoring systems
+
+---
